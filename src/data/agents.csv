@@ -1,0 +1,6 @@
+agent_id,agent_name,type,demand,priority,urgency,min_required,max_capacity,failure_threshold
+1,Hospital,critical,80,0.95,0.9,50,100,40
+2,Water Supply,essential,60,0.8,0.7,40,80,30
+3,Emergency Services,critical,50,0.9,0.85,30,70,25
+4,Residential,normal,70,0.6,0.6,30,90,20
+5,Industry,low,65,0.4,0.5,20,100,15

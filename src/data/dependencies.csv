@@ -1,0 +1,6 @@
+source,target,dependency_weight
+Power,Hospital,0.9
+Power,Water Supply,0.8
+Power,Emergency Services,0.85
+Water Supply,Hospital,0.7
+Emergency Services,Hospital,0.6
